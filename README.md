@@ -11,5 +11,5 @@ https://discord.gg/AkMAzaA
 ## FVTM Repo
 https://github.com/Fexcraft/FVTM/
 
-## License
-```//TODO to be written yet```
+## FVTM Wiki
+https://fexcraft.net/wiki/mod/fvtm
